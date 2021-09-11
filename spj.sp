@@ -9,7 +9,7 @@ bool g_bEnabled[MAXPLAYERS + 1]
 public Plugin myinfo = 
 {
 	name = "spj", 
-	author = "pev", 
+	author = "pev, also s/o my nigga log-ical", 
 	description = "shows spj in float", 
 	version = PLUGIN_VERSION, 
 	url = "/pevlindir/"
